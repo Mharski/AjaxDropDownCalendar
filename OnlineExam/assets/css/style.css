@@ -1,0 +1,70 @@
+input[class=btn]{
+	text-align: left;
+	height: 25px;
+}
+
+.registration{
+	margin-top:50px;
+}
+.thumbnail{
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+.navbar-inner{
+	background-image:url("assets/img/Beautiful_Background/3.jpg");
+	height:50px;
+	width:100%;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.8);
+	position: fixed;
+}
+.icon-remove{
+	color:red;
+}
+
+.font{
+	color:white;
+	font-family: century gothic;
+	position: fixed;
+}
+
+.thumbnail{
+	background-color: white;
+}
+
+.icon{
+	height: 20px;
+	width: 20px;
+}
+
+.form{
+	margin-top: 10px;
+}
+
+.time{
+    margin-left: 650px;
+}
+.table{
+	margin-top: 50px;
+	width:1000px;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.8);
+}
+
+.pic{
+	margin-top: 10px;
+	height: 30px;
+	width: 30px;
+}
+
+.font1{
+	color: green;
+	margin-top: 10px;
+}
+
+.table1{
+	margin-left: 10px;
+}
+
+input[type=radio]{
+	margin-left: 20px;
+}
+
+#tube{ width:200px; height:50px; float:left;background:#FFFFFF;width:200px;}
